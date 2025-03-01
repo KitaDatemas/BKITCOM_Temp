@@ -1,0 +1,5 @@
+../Core/Src/softwareTimer.c:12:6:timerInit	16	static
+../Core/Src/softwareTimer.c:17:6:setTimer	16	static
+../Core/Src/softwareTimer.c:24:6:timerRun	16	static
+../Core/Src/softwareTimer.c:35:9:checkTimerFlag	16	static
+../Core/Src/softwareTimer.c:40:6:HAL_TIM_PeriodElapsedCallback	16	static
